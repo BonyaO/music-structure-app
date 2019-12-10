@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Music App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="about">About Us</string>
+    <string name="about_details">This app is the fourth project of the Udacity\'s Android Basics Nanodegree. It simply presents The structure of a Music player app but does not play music it self</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="favourites">Favourites</string>
+    <string name="history">History</string>
+    <string name="about_us">About</string>
+    <string name="shuffle_btn">Shuffle Button</string>
+    <string name="play_previous">Play Previous</string>
+    <string name="play_btn">Play</string>
+    <string name="play_next">Play next</string>
+    <string name="repeat">Repeat</string>
+    <string name="add_to_favourite">Add To Favourite</string>
+    <string name="remove">Remove</string>
+    <string name="song">Song</string>
+    <string name="artist">Artist</string>
+    <string name="more_options">More Options</string>
+    <string name="artist_icon">Artist Icon</string>
+    <string name="album_icon">Album icon</string>
+</resources>
